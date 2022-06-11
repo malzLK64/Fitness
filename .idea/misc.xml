@@ -4,6 +4,20 @@
     <option name="filePathToZoomLevelMap">
       <map>
         <entry key="..\:/Users/Emir/AndroidStudioProjects/HealthyFit/app/src/main/res/layout/fragment_dashboard.xml" value="0.23097826086956522" />
+        <entry key="..\:/Users/JerBa/AndroidStudioProjects/Fitness/app/src/main/res/drawable/button.xml" value="0.3955" />
+        <entry key="..\:/Users/JerBa/AndroidStudioProjects/Fitness/app/src/main/res/drawable/edit_txt_border.xml" value="0.3485" />
+        <entry key="..\:/Users/JerBa/AndroidStudioProjects/Fitness/app/src/main/res/font-v26/segoe_ui.xml" value="0.3411458333333333" />
+        <entry key="..\:/Users/JerBa/AndroidStudioProjects/Fitness/app/src/main/res/font/segoe_ui.xml" value="0.3411458333333333" />
+        <entry key="..\:/Users/JerBa/AndroidStudioProjects/Fitness/app/src/main/res/layout-w1240dp/activity_login.xml" value="0.1" />
+        <entry key="..\:/Users/JerBa/AndroidStudioProjects/Fitness/app/src/main/res/layout-w936dp/activity_login.xml" value="0.1141928079571538" />
+        <entry key="..\:/Users/JerBa/AndroidStudioProjects/Fitness/app/src/main/res/layout/activity_login.xml" value="0.33" />
+        <entry key="..\:/Users/JerBa/AndroidStudioProjects/Fitness/app/src/main/res/layout/activity_main.xml" value="0.4841485507246377" />
+        <entry key="..\:/Users/JerBa/AndroidStudioProjects/Fitness/app/src/main/res/layout/activity_selection.xml" value="0.25" />
+        <entry key="..\:/Users/JerBa/AndroidStudioProjects/Fitness/app/src/main/res/layout/email_input.xml" value="0.728021978021978" />
+        <entry key="..\:/Users/JerBa/AndroidStudioProjects/Fitness/app/src/main/res/layout/fragement_login.xml" value="0.3109375" />
+        <entry key="..\:/Users/JerBa/AndroidStudioProjects/Fitness/app/src/main/res/layout/tiitle_bar.xml" value="0.34375" />
+        <entry key="..\:/Users/JerBa/AndroidStudioProjects/Fitness/app/src/main/res/layout/title_bar.xml" value="0.44067028985507245" />
+        <entry key="..\:/Users/JerBa/AndroidStudioProjects/Fitness/app/src/main/res/menu/bottom_nav_menu.xml" value="0.3109375" />
       </map>
     </option>
   </component>

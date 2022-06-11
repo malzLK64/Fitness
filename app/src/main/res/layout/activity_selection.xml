@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:background="#121212"
+    android:layout_height="match_parent">
+
+    <ImageView
+        android:id="@+id/imageView"
+        android:layout_width="921dp"
+        android:layout_height="1009dp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:srcCompat="@drawable/login_background_image"
+        tools:layout_editor_absoluteY="-248dp" />
+
+    <TextView
+        android:id="@+id/selection_header"
+        android:layout_width="250dp"
+        android:layout_height="200dp"
+        android:layout_marginEnd="64dp"
+        android:layout_marginBottom="212dp"
+        android:textStyle="bold"
+        android:text="@string/selection_header"
+        android:theme="@style/Theme.HealthyFit"
+        android:textColor="?android:textColorPrimary"
+        android:textSize="50sp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.278"
+        app:layout_constraintStart_toStartOf="parent" />
+</androidx.constraintlayout.widget.ConstraintLayout>
